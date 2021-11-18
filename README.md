@@ -1,6 +1,4 @@
-About: 
-
-The following repository contains projects from the course CSE 321 - Real-Time Embedded Operating Systems. 
+About: The following repository contains projects from the course CSE 321 - Real-Time Embedded Operating Systems. 
 
 Project 1: Creating a base reference guide and setting up our environment. 
 
