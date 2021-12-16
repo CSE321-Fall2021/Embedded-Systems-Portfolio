@@ -56,8 +56,6 @@ Files
 - lcd1602.cpp
 - lcd1602.h
 --------------------
-Things Declared
---------------------
 Global Variables Declared
 ----------
 - state_flag
