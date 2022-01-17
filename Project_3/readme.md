@@ -1,5 +1,5 @@
 -------------------
-About:
+About
 --------------------
 - Read Me for Ultrasonic Room Capacity Reader
 -------------------
